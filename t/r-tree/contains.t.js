@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-require ('proof')(4, prove)
+require ('proof')(5, prove)
 
 function prove (assert) {
     var rects = require('../..')
